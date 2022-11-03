@@ -53,7 +53,3 @@ $ yarn prettier
 ```console
 $ npx hardhat  verify --network mainnet $CONTRACT_ADDRESS $CONSTRUCTOR_ARGUMENTS
 ```
-
-## 📄 License
-
-**Token Vesting Contracts** is released under the [Apache-2.0](LICENSE).
